@@ -39,7 +39,7 @@ This is my personal portfolio website built for the hackathon challenge. It show
 Feel free to reach out to me via the contact form on the site for any opportunities or collaboration.
 
 ## 📁 Repository and Hosting:
-- **GitHub Repository:** [Portfolio GitHub Repo](https://github.com/cyclictraid/portfolio-hackathon)
+- **GitHub Repository:** [Portfolio GitHub Repo](https://github.com/cyclictriad/portfolio-hackathon)
 - **Deployment:** Hosted on [Netlify](https://muchiri-simon-mwangi-portfolio.netlify.app/)
 
 ## 📌 Additional Information:
