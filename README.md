@@ -31,7 +31,7 @@ This is my personal portfolio website built for the hackathon challenge. It show
    *[Link to project](https://craftedinkenya.store)*
 
 2. **Web Scraping & Automation** – Automated exam creation and distribution system with educational content scraping.  
-   *[Link to project]*
+   *[Link to project](https://6743c54e2e1a4d4bbef461c5--muchiri-simon-mwangi-portfolio.netlify.app/)*
 
 3. **Medical Technology Integration** – Working on medical tech innovations with embedded systems programming.
 
