@@ -40,7 +40,7 @@ Feel free to reach out to me via the contact form on the site for any opportunit
 
 ## 📁 Repository and Hosting:
 - **GitHub Repository:** [Portfolio GitHub Repo](https://github.com/cyclictraid/portfolio-hackathon)
-- **Deployment:** Hosted on [Netlify](https://6743c54e2e1a4d4bbef461c5--muchiri-simon-mwangi-portfolio.netlify.app/)
+- **Deployment:** Hosted on [Netlify](https://muchiri-simon-mwangi-portfolio.netlify.app/)
 
 ## 📌 Additional Information:
 - **Email:** muchiri.esmwangi@gmail.com
