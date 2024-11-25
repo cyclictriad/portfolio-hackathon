@@ -31,7 +31,7 @@ This is my personal portfolio website built for the hackathon challenge. It show
    *[Link to project](https://craftedinkenya.store)*
 
 2. **Web Scraping & Automation** – Automated exam creation and distribution system with educational content scraping.  
-   *[Link to project](https://6743c54e2e1a4d4bbef461c5--muchiri-simon-mwangi-portfolio.netlify.app/)*
+   *[Link to project](https://github.com/cyclictriad/web-scraper/)*
 
 3. **Medical Technology Integration** – Working on medical tech innovations with embedded systems programming.
 
@@ -40,7 +40,7 @@ Feel free to reach out to me via the contact form on the site for any opportunit
 
 ## 📁 Repository and Hosting:
 - **GitHub Repository:** [Portfolio GitHub Repo](https://github.com/cyclictraid/portfolio-hackathon)
-- **Deployment:** Hosted on [Netlify](https://yourportfolio.netlify.app)
+- **Deployment:** Hosted on [Netlify](https://6743c54e2e1a4d4bbef461c5--muchiri-simon-mwangi-portfolio.netlify.app/)
 
 ## 📌 Additional Information:
 - **Email:** muchiri.esmwangi@gmail.com
